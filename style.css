@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #224f65;
+    color: white;
+}
+.navbar-nav{
+    margin-left: 75%;
+}
+.collapse navbar-collapse{
+    margin-left: 65%;
+}
+.navbar-brand{
+    color: rgb(255, 255, 255);
+}
+.nav-link{
+    color: aliceblue;
+}
+.img-fluid {
+    margin-top: 2px;
+}
+.title{
+    text-align: center;
+    margin: 0 auto 30px;
+    border: solid 4px black;
+    position: relative;
+    line-height: 60px;
+    color: rgb(219,63,4);
+    background-color: #cccdcd;
+    font-family:  'cursive';
+    margin-top: 10px;
+}
+.footer{
+    text-align: center;
+}
